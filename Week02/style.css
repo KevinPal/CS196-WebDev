@@ -1,0 +1,40 @@
+.center {
+    margin: auto;
+    border: 3px solid green;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    background: darkgrey;
+}
+
+h1 {
+    color: green;
+    border: 1px solid green;
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.purple {
+    color: purple;
+}
+
