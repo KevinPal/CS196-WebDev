@@ -1,0 +1,11 @@
+{
+  "name": "week_06",
+  "version": "1.0.0",
+  "description": "Follow this guide on the Express website:\r https://expressjs.com/en/starter/installing.html",
+  "main": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
